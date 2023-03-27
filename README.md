@@ -41,3 +41,5 @@ function App() {
 ```
 
 Neste caso ocorreria apenas uma renderização todas as vezes que o valor do state `search` fosse alterado.
+
+Referência: https://www.youtube.com/watch?v=kCpca2z2cls
